@@ -11,7 +11,7 @@ public class JenkinsMavenApplication {
 
 	@GetMapping("/")
 	String index(){
-		return "Hello Jenkins maven V2";
+		return "Hello Jenkins maven V3";
 	}
 
 	public static void main(String[] args) {
